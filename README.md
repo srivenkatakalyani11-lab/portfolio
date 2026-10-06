@@ -180,7 +180,8 @@ Hyderabad | 2024 – 2026
 
 ### 📜 Certifications
 
-- **Post Graduate Certification in Data Science and Analytics** — Imarticus Learning
+- **Post Graduate Certification in Data Science and Analytics** — Imarticus Learning*
+- **Python with Data Science — NPTEL National Certification (April 2025)
 
 ## 📈 What I Bring
 
@@ -189,7 +190,6 @@ Hyderabad | 2024 – 2026
 | 📊 Data Analysis | Python, SQL, Excel, Pandas, NumPy |
 | 📈 Visualization | Power BI, Tableau, Tableau Server, Matplotlib |
 | 🗄️ Data | ETL, Data Cleaning, Data Modeling, Data Warehousing |
-| ⚡ Big Data | Databricks, PySpark |
 | 📋 Reporting | KPI Reporting, Dashboards, Business Insights |
 | 🤖 AI | Generative AI, Forecasting, Machine Learning |
 | 💡 Strengths | Problem Solving, Analytical Thinking, Communication |
@@ -222,7 +222,6 @@ I'm particularly interested in roles involving **data-driven decision-making, bu
 
 ## 📫 Let's Connect
 
-## 📫 Let's Connect
 
 <p align="center">
 
